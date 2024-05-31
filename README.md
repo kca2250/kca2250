@@ -24,3 +24,5 @@ Here are some ideas to get you started:
     <img height="20" src="https://badgen.org/img/zenn/kca/articles?style=plastic" />
   </a>
 </p>
+
+[![kca2250's GitHub stats](https://github-readme-stats.vercel.app/api?username=kca2250)](https://github.com/kca2250/github-readme-stats)
